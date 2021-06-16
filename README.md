@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+## I'm Çağlar, and I am project intern at Reinforcement Learning Turkey and machine learning intern at Stelab Technology.
+I am into Machine Learning.
+These days i am learning RCNN and Reinforcement Learning.
+
 
 <!--
 **caglarsevinc/caglarsevinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
