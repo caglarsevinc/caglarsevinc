@@ -1,6 +1,6 @@
 ### Hello there 👋
 <img src="https://github.com/caglarsevinc/caglarsevinc/blob/main/giphy.gif" width="256" />
-I'm Çağlar, I am senior student at Yıldız Tech. I am into Machine Learning and Data Science. These days I am learning AWS, Spark and deployment of models. Also, I am a chess player, sci-fi & fantasy enthusiast, and F1-Redbull fan.
+I'm Çağlar, I am senior student at Yıldız Tech and I am working at Yapı Kredi Technology as Data Engineer. I am into Machine Learning and Data Science. These days I am learning AWS, Spark and deployment of models. Also, I am a chess player, sci-fi & fantasy enthusiast, and F1-Redbull fan.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/caglarsevinc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/caglar-sevinc235/)  
 
